@@ -1,0 +1,7 @@
+{
+  "name": "ionitem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
